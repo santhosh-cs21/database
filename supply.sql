@@ -1,0 +1,71 @@
+/*Supply master*/
+
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','1','1','20',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','1','3','40',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','5','1','20',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','1','4','50',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','2','1','12',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','2','2','25',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','2','4','30',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','3','1','30',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','3','2','100',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','3','3','25',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','3','4','20',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','4','1','30',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','4','2','30',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','4','3','100',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','4','4','25',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','5','2','30',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','5','3','30',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','2','3','20',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','1','2','20',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','5','4','100',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','6','1','25',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','6','2','20',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','6','3','30',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('1','6','4','30',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','1','1','10',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','1','2','20',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','1','3','30',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','1','4','40',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','2','1','32',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','2','2','35',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','2','3','45',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','2','4','80',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','3','1','40',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','3','2','30',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','3','3','32',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','3','4','45',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','4','1','15',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','4','2','50',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','4','3','25',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','4','4','55',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','5','1','20',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','5','2','40',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','5','3','20',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','5','4','40',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','6','1','30',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','6','2','20',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','6','3','40',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('2','6','4','100',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('3','3','1','5',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('3','6','4','10',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('3','1','4','10',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('3','5','4','10',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('3','2','4','10',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('4','4','2','4',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('4','6','4','5',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('4','1','4','10',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('4','3','4','5',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('4','5','4','15',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('4','2','4','15',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('4','4','1','3',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('5','1','2','4',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('5','3','2','8',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('5','6','1','3',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('5','4','4','6',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
+insert into skfp.supply_master(batch_id,shop_id,package_id,quantity,supply_date,created_by,created_date,last_updated_by,last_updated_date,status)values('5','2','4','4',NOW(),'Santhosh',NOW(),"Santhosh",NOW(),'1');
